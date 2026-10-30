@@ -1,5 +1,5 @@
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3bff,100:8b7cff&height=200&section=header&text=Mohamad%20Alkassem&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%C2%B7%20Dubai&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" alt="Mohamad Alkassem — AI Automation Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3bff,100:8b7cff&height=200&section=header&text=Mohamad%20Alkassem&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%C2%B7%20Dubai&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
 <p align="center">
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://malkassem.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/m-alkassem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:m.alkassem2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://malkassem.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/m-alkassem"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:m.alkassem2003@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vercel&perline=10" />
+  <img alt="Tech stack: Python, JavaScript, TypeScript, HTML, CSS, React, Node.js, Git, GitHub, Vercel" src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vercel&perline=10" />
 </p>
 
 ### 🚀 Featured projects
@@ -40,7 +40,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=M-Alkassem&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=M-Alkassem&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🐍 Contribution snake
@@ -52,4 +52,4 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b7cff,50:1f3bff,100:0d1117&height=110&section=footer" />
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b7cff,50:1f3bff,100:0d1117&height=110&section=footer" />
