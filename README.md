@@ -20,6 +20,7 @@
 - 🎓 Computer Science student at **Canadian University Dubai**
 - 📍 Based in **Dubai, UAE** — open to AI & automation roles (on-site / hybrid)
 - ⚡ Currently building with LLMs, browser extensions and decision-support tools
+- 💬 Ask me about **AI agents, workflow automation and LLM integrations**
 
 ### 🛠️ Tech stack
 
