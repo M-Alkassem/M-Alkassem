@@ -32,6 +32,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Wajha · واجهة**](https://github.com/M-Alkassem/Wajha) | Free, offline desktop app for designing App Store and Google Play screenshots — templates, device frames, 51 languages with right-to-left support, every store size in one click | TypeScript · Rust (Tauri) |
 | [**CUD-RTA-PeakFlow**](https://github.com/M-Alkassem/CUD-RTA-PeakFlow) | AI decision-support prototype for the CUD 4IR Mobility Challenge with RTA — forecasts peak corridor congestion and recommends demand-shift campaigns | TypeScript |
 | [**AI-Phishing-Detection-Extension**](https://github.com/M-Alkassem/AI-Phishing-Detection-Extension-) | Real-time AI phishing detection for Gmail, Manifest V3, provider-agnostic LLM integration | JavaScript |
 | [**AI-Grocery-Assistant**](https://github.com/M-Alkassem/AI-Grocery-Assistant) | AI-powered chatbot that helps with grocery shopping | Python |
