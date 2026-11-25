@@ -32,6 +32,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Mashhad · مشهد**](https://github.com/M-Alkassem/mashhad) | Claude Code plugin that directs Blender to make cinematic 3D scroll heroes for any landing page — real scanned materials, desktop and phone versions, rendered free on your laptop with no AI video or credits · [see it scroll](https://m-alkassem.github.io/mashhad/) | Python (Blender) · JavaScript |
 | [**Khatt · خط**](https://github.com/M-Alkassem/khatt) | Animated Arabic calligraphy: type a word and watch it written in 12 effects and 6 classic styles, with SVG, PNG and MP4 export, plus a Claude skill that invents new effects · [open the studio](https://m-alkassem.github.io/khatt/) | TypeScript · HarfBuzz (WebAssembly) |
 | [**Wajha · واجهة**](https://github.com/M-Alkassem/Wajha) | Free, offline desktop app for designing App Store and Google Play screenshots — templates, device frames, 51 languages with right-to-left support, every store size in one click | TypeScript · Rust (Tauri) |
 | [**Bayt · بيت**](https://github.com/M-Alkassem/bayt) | Claude Code mod that explains what Claude builds in plain words, in English and Arabic, and draws your app as a house | TypeScript |
